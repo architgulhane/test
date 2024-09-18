@@ -33,3 +33,5 @@ console.log(betterdate);
 let timestamp = Date.now() //time stamp
 console.log(timestamp);
 */
+arr = [1,2,3,4]
+console.log(arr)
